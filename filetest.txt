@@ -1,4 +1,6 @@
 filestest created by Idriss. 
 this document will be our facebook code
 
-adding from github
+adding fr   
+
+adding something under pierre branch
